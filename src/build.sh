@@ -5,7 +5,7 @@ for sub in ./sys/uvm ./sys/compat/sa ./sys/compat/common ./sys/kern \
            ./sys/miscfs/genfs ./sys/miscfs/deadfs ./sys/miscfs/syncfs \
            ./sys/miscfs/fifofs ./sys/net ./sys/conf ./sys/arch/avr32/avr32 \
            ./sys/arch/avr32/conf ./sys/dev ./sys/dev/dkwedge \
-           ./sys/lib/libkern ../sys/common/lib/libc/stdlib \
+           ./sys/lib/libkern ./common/lib/libc/stdlib \
            ./common/lib/libc/string ./common/lib/libc/quad \
            ./common/lib/libc/gen ./common/lib/libc/atomic \
            ./common/lib/libc/sys ./common/lib/libc/net ./common/lib/libprop \
